@@ -19,6 +19,6 @@ dev:
     storage: local
     storage_path: /var/local/docker-registry
 
-s3:
+prod:
     storage: s3
     storage_path: /
